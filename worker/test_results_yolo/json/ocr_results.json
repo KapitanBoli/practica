@@ -1,0 +1,232 @@
+[
+    {
+        "filename": "image.jpg",
+        "detections": [
+            {
+                "class": "doctype",
+                "confidence": 0.8815,
+                "text": "ДИПЛОМ"
+            },
+            {
+                "class": "participant_name",
+                "confidence": 0.8315,
+                "text": "(Зжcюже | Coemvoa"
+            },
+            {
+                "class": "eventname",
+                "confidence": 0.5389,
+                "text": "В номuwaцuu \"Декораmueно-прuкладное | meopчecmeo"
+            },
+            {
+                "class": "eventname",
+                "confidence": 0.3965,
+                "text": "За рaбomu | Maкem храма | Иоанна | Боеослова"
+            }
+        ]
+    },
+    {
+        "filename": "_Всеросийский конкурс творческих проектов и иследвательских работ обучающихся _#Вместе ярче __.jpg",
+        "detections": [
+            {
+                "class": "doctype",
+                "confidence": 0.9424,
+                "text": "Диплом"
+            },
+            {
+                "class": "eventname",
+                "confidence": 0.7621,
+                "text": "в номинации (Экологически чистая школа> | областного этапа Всероссийского конкурса творческих; | проектных и исследовательских | обучающихся | (#Вместе ярче> | работ"
+            },
+            {
+                "class": "position",
+                "confidence": 0.7278,
+                "text": "III степени"
+            },
+            {
+                "class": "year",
+                "confidence": 0.6919,
+                "text": "енбург, 2017"
+            },
+            {
+                "class": "participant_name",
+                "confidence": 0.4233,
+                "text": "Медведева Ульяна;"
+            },
+            {
+                "class": "year",
+                "confidence": 0.4038,
+                "text": "Г | Оренбург, 2017"
+            },
+            {
+                "class": "city",
+                "confidence": 0.3372,
+                "text": "Г | Оренбург;"
+            },
+            {
+                "class": "year",
+                "confidence": 0.3085,
+                "text": "2017"
+            },
+            {
+                "class": "year",
+                "confidence": 0.2671,
+                "text": "[не найдено]"
+            }
+        ]
+    },
+    {
+        "filename": "Восходящие звезды 2021.jpg",
+        "detections": [
+            {
+                "class": "doctype",
+                "confidence": 0.9265,
+                "text": "Диплом"
+            },
+            {
+                "class": "participant_name",
+                "confidence": 0.7015,
+                "text": "Фролов Михаил Юрьевич"
+            },
+            {
+                "class": "organization",
+                "confidence": 0.651,
+                "text": "НОВЫЕ ИДЕИ | www konkursidei ru"
+            },
+            {
+                "class": "position",
+                "confidence": 0.6058,
+                "text": "Лауреат | степени"
+            },
+            {
+                "class": "year",
+                "confidence": 0.5925,
+                "text": "06.12.2021г"
+            },
+            {
+                "class": "eventname",
+                "confidence": 0.4434,
+                "text": "Номинация: Фортепиано"
+            }
+        ]
+    },
+    {
+        "filename": "Всероссийская олимпиада студентов _Прометей_ по иностранному языку.jpg",
+        "detections": [
+            {
+                "class": "organization",
+                "confidence": 0.9136,
+                "text": "ВСЕРОССИЙСКАЯ | ОХИМПИНЦА СУЦЕПОБ | ПГОГЁТЕЙ | ПО ИНОСТГАННОПУ ЯЗЫКУ"
+            },
+            {
+                "class": "participant_name",
+                "confidence": 0.8631,
+                "text": "Рогова Анна / Anna Rogowa"
+            },
+            {
+                "class": "city",
+                "confidence": 0.8455,
+                "text": "УЕПЛБИПСК;"
+            },
+            {
+                "class": "year",
+                "confidence": 0.7752,
+                "text": "2020"
+            },
+            {
+                "class": "doctype",
+                "confidence": 0.6315,
+                "text": "(EYTИYИKНТ"
+            },
+            {
+                "class": "doctype",
+                "confidence": 0.3666,
+                "text": "УЧАСТНИКА"
+            }
+        ]
+    },
+    {
+        "filename": "Всероссийский конкурс молодежных проектов.jpg",
+        "detections": [
+            {
+                "class": "doctype",
+                "confidence": 0.8489,
+                "text": "СЕРТИФИКАТ"
+            },
+            {
+                "class": "participant_name",
+                "confidence": 0.7799,
+                "text": "Алексей Попов"
+            },
+            {
+                "class": "year",
+                "confidence": 0.5571,
+                "text": "2019"
+            },
+            {
+                "class": "organization",
+                "confidence": 0.5073,
+                "text": "Претендента Всероссийского конкурса | молодежных проектов"
+            },
+            {
+                "class": "eventname",
+                "confidence": 0.2539,
+                "text": "Школьный Турнир | Инженеров (ШТИ)"
+            }
+        ]
+    },
+    {
+        "filename": "Всерроссийская студенчекая олимпиада.jpeg",
+        "detections": [
+            {
+                "class": "doctype",
+                "confidence": 0.8657,
+                "text": "ГРАМОТА"
+            },
+            {
+                "class": "participant_name",
+                "confidence": 0.7954,
+                "text": "Кoрonковс | Фuлunna Михашлосu a"
+            },
+            {
+                "class": "year",
+                "confidence": 0.6442,
+                "text": "к23ж апрсля 2014 &ooa"
+            },
+            {
+                "class": "eventname",
+                "confidence": 0.5779,
+                "text": "Cmубенто_ | 4 курса | ЭОжно-'ралъско2о &oc)oapcuecu :o ylecpcutcmo | заняв с2o | 3 | мecmo 80 II mype (сероссцёской спуденческой oxuuuulade | 110 секциц | < | Тражоанскчё u арбэmражны/й чроцесс>"
+            },
+            {
+                "class": "organization",
+                "confidence": 0.4961,
+                "text": "ВСЕРОССИЙСКАЯ СТУДЕНЧЕСКАЯ | ОЛИМПИАДА II ТУР"
+            }
+        ]
+    },
+    {
+        "filename": "Университетское радиовещание_ вчера, сегодня, завтра_.jpg",
+        "detections": [
+            {
+                "class": "doctype",
+                "confidence": 0.8594,
+                "text": "СЕРТИФИКАТ"
+            },
+            {
+                "class": "organization",
+                "confidence": 0.821,
+                "text": "Южно-Уральский | госуАарственный университет (НИУ)"
+            },
+            {
+                "class": "participant_name",
+                "confidence": 0.7895,
+                "text": "Юлии У | УЗЬМОВОЙ"
+            },
+            {
+                "class": "eventname",
+                "confidence": 0.5354,
+                "text": "участника студенческой | научно-практической конференции | Университетское радиовещание: | вчера, сегоАня, завтра  , посвященной | 4О-^етию СтуАии ФРадио ЮУрГУ ж"
+            }
+        ]
+    }
+]
