@@ -1,0 +1,18 @@
+services:
+  neural-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: neural-worker
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONUNBUFFERED=1
+      - POETRY_VIRTUALENVS_CREATE=false
+    restart: unless-stopped
+    networks:
+      - neural-network
+
+networks:
+  neural-network:
+    driver: bridge
